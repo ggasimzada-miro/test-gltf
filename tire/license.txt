@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tire
+* source:	https://sketchfab.com/3d-models/tire-3c29b82703d54b788ef73c356ecf15d7
+* author:	Janrei (https://sketchfab.com/Janrei)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tire" (https://sketchfab.com/3d-models/tire-3c29b82703d54b788ef73c356ecf15d7) by Janrei (https://sketchfab.com/Janrei) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
