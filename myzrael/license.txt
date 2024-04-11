@@ -1,0 +1,11 @@
+Model Information:
+* title:	Disciples III Myzrael
+* source:	https://sketchfab.com/3d-models/disciples-iii-myzrael-7aa70e17915746d49c13eebfc986acf9
+* author:	erionroot (https://sketchfab.com/erionroot)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Disciples III Myzrael" (https://sketchfab.com/3d-models/disciples-iii-myzrael-7aa70e17915746d49c13eebfc986acf9) by erionroot (https://sketchfab.com/erionroot) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
